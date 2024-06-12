@@ -34,3 +34,5 @@ App review classification is critical for understanding user feedback and improv
 
 - **Innovative Approaches:** Uses advanced techniques in NLP to handle complex classification tasks.
 - **Real-World Impact:** Aims to provide practical solutions for app developers to better understand user feedback and enhance app development processes.
+
+## Contact me at my LinkedIn: https://www.linkedin.com/in/pavel-ghazaryan
